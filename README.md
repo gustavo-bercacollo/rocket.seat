@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O rocket.seat é uma landing page de segurança da informação.
 
-- [Acesse o projeto finalizado, online](https://gustavo-bercacollo.github.io/flutuar.com/)
+- [Acesse o projeto finalizado, online](https://gustavo-bercacollo.github.io/rocket.seat/)
 
 ## :memo: Licença
 
